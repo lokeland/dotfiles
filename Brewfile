@@ -69,6 +69,7 @@ cask 'kap'
 cask 'spotify'
 cask 'terminus'
 cask 'edex-ui'
+cask 'cloc'
 cask 'adobe-creative-cloud'
 
 # Quicklook
